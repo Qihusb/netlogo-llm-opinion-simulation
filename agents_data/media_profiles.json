@@ -1,0 +1,1643 @@
+{
+  "中国日报": {
+    "basic_info": {
+      "name": "《中国日报》",
+      "country": "中国",
+      "media_type": "报社/纸质媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 6,
+      "counter_count": 0,
+      "aligned_count": 4,
+      "neutral_count": 2,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.6666666666666666,
+      "neutral_ratio": 0.3333333333333333,
+      "stance_label": "Aligned",
+      "avg_question_length": 83.66666666666667,
+      "issue_entropy": 0.4505612088663046,
+      "taiwan_issue_ratio": 0.1666666666666666,
+      "avg_aligned_score": 0.62066454,
+      "avg_counter_score": 0.54134893,
+      "avg_neutral_score": 0.41899326,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.5,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.5,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 312,
+      "media_taihai_questions": 7,
+      "taiwan_question_ratio": 0.0224358974358974,
+      "coverage_intensity": 0.0224,
+      "topic_diversity": 0.4506
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.5
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.6666666666666666,
+      "neutral_tendency": 0.3333333333333333,
+      "semantic_intensity": 0.62066454,
+      "topic_preferences": {
+        "政要表态": 0.5
+      }
+    }
+  },
+  "人民日报": {
+    "basic_info": {
+      "name": "《人民日报》",
+      "country": "中国",
+      "media_type": "报社/纸质媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 1,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 212.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.4495033,
+      "avg_counter_score": 0.39100587,
+      "avg_neutral_score": 0.5797454,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 1.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 93,
+      "media_taihai_questions": 1,
+      "taiwan_question_ratio": 0.010752688172043,
+      "coverage_intensity": 0.0108,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "一般性台海议题": 0.5
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.4495033,
+      "topic_preferences": {
+        "外交议题": 0.5,
+        "一般性询问": 0.5
+      }
+    }
+  },
+  "北京青年报": {
+    "basic_info": {
+      "name": "《北京青年报》",
+      "country": "中国",
+      "media_type": "未知媒体类型",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 3,
+      "counter_count": 0,
+      "aligned_count": 2,
+      "neutral_count": 1,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.6666666666666666,
+      "neutral_ratio": 0.3333333333333333,
+      "stance_label": "Aligned",
+      "avg_question_length": 84.0,
+      "issue_entropy": 0.6365141682948128,
+      "taiwan_issue_ratio": 0.6666666666666666,
+      "avg_aligned_score": 0.58927405,
+      "avg_counter_score": 0.5287563,
+      "avg_neutral_score": 0.44098482,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.3333333333333333,
+        "EI_3_国际组织涉台表述": 0.6666666666666666,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 191,
+      "media_taihai_questions": 4,
+      "taiwan_question_ratio": 0.0209424083769633,
+      "coverage_intensity": 0.0209,
+      "topic_diversity": 0.6365
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.3333
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.6666666666666666,
+      "neutral_tendency": 0.3333333333333333,
+      "semantic_intensity": 0.58927405,
+      "topic_preferences": {
+        "政要表态": 0.3333333333333333
+      }
+    }
+  },
+  "南华早报": {
+    "basic_info": {
+      "name": "《南华早报》",
+      "country": "中国香港",
+      "media_type": "报社/纸质媒体",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 4,
+      "counter_count": 0,
+      "aligned_count": 4,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 119.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.5950344,
+      "avg_counter_score": 0.50822675,
+      "avg_neutral_score": 0.44836938,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.25,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.25,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.5
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 21,
+      "media_taihai_questions": 4,
+      "taiwan_question_ratio": 0.1904761904761904,
+      "coverage_intensity": 0.1905,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "对台军售/军事援助": 0.5,
+        "外国政要涉台表态/访问": 0.25
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.5950344,
+      "topic_preferences": {
+        "政要表态": 0.25,
+        "军售援助": 0.5
+      }
+    }
+  },
+  "澎湃新闻": {
+    "basic_info": {
+      "name": "《澎湃新闻》",
+      "country": "中国",
+      "media_type": "网络新媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 3,
+      "counter_count": 0,
+      "aligned_count": 2,
+      "neutral_count": 1,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.6666666666666666,
+      "neutral_ratio": 0.3333333333333333,
+      "stance_label": "Aligned",
+      "avg_question_length": 84.66666666666667,
+      "issue_entropy": 0.6365141682948128,
+      "taiwan_issue_ratio": 0.3333333333333333,
+      "avg_aligned_score": 0.5755125,
+      "avg_counter_score": 0.48349762,
+      "avg_neutral_score": 0.4704949,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.3333333333333333,
+        "EI_3_国际组织涉台表述": 0.3333333333333333,
+        "EI_5_外媒涉台报道争议": 0.3333333333333333,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 235,
+      "media_taihai_questions": 3,
+      "taiwan_question_ratio": 0.0127659574468085,
+      "coverage_intensity": 0.0128,
+      "topic_diversity": 0.6365
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.3333
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.6666666666666666,
+      "neutral_tendency": 0.3333333333333333,
+      "semantic_intensity": 0.5755125,
+      "topic_preferences": {
+        "政要表态": 0.3333333333333333
+      }
+    }
+  },
+  "澳大利亚人报": {
+    "basic_info": {
+      "name": "澳大利亚人报",
+      "country": "澳大利亚",
+      "media_type": "未知媒体类型",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "英文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 1,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 123.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 1.0,
+      "avg_aligned_score": 0.6306206,
+      "avg_counter_score": 0.57344,
+      "avg_neutral_score": 0.39796972,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.0,
+        "EI_3_国际组织涉台表述": 1.0,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 3,
+      "media_taihai_questions": 1,
+      "taiwan_question_ratio": 0.3333333333333333,
+      "coverage_intensity": 0.3333,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "一般性台海议题": 0.5
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.6306206,
+      "topic_preferences": {
+        "外交议题": 0.5,
+        "一般性询问": 0.5
+      }
+    }
+  },
+  "环球时报": {
+    "basic_info": {
+      "name": "《环球时报》",
+      "country": "中国",
+      "media_type": "报社/纸质媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 3,
+      "counter_count": 0,
+      "aligned_count": 3,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 107.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.6202874,
+      "avg_counter_score": 0.51568073,
+      "avg_neutral_score": 0.43201593,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.3333333333333333,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.3333333333333333,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.3333333333333333
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 324,
+      "media_taihai_questions": 5,
+      "taiwan_question_ratio": 0.015432098765432,
+      "coverage_intensity": 0.0154,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.3333,
+        "对台军售/军事援助": 0.3333
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.6202874,
+      "topic_preferences": {
+        "政要表态": 0.3333333333333333,
+        "军售援助": 0.3333333333333333
+      }
+    }
+  },
+  "纽约时报": {
+    "basic_info": {
+      "name": "《纽约时报》",
+      "country": "美国",
+      "media_type": "报社/纸质媒体",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "英文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 1,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 42.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.70497775,
+      "avg_counter_score": 0.46070093,
+      "avg_neutral_score": 0.41716063,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 1.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 40,
+      "media_taihai_questions": 1,
+      "taiwan_question_ratio": 0.025,
+      "coverage_intensity": 0.025,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "一般性台海议题": 0.5
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.70497775,
+      "topic_preferences": {
+        "外交议题": 0.5,
+        "一般性询问": 0.5
+      }
+    }
+  },
+  "中国国际电视台cgtn": {
+    "basic_info": {
+      "name": "中国国际电视台（CGTN）",
+      "country": "中国",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 1,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 117.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.68547153,
+      "avg_counter_score": 0.5408541,
+      "avg_neutral_score": 0.38683718,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 1.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 168,
+      "media_taihai_questions": 1,
+      "taiwan_question_ratio": 0.0059523809523809,
+      "coverage_intensity": 0.006,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "对台军售/军事援助": 1.0
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.68547153,
+      "topic_preferences": {
+        "军售援助": 1.0
+      }
+    }
+  },
+  "中央广播电视总台": {
+    "basic_info": {
+      "name": "中央广播电视总台",
+      "country": "中国",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 4,
+      "counter_count": 0,
+      "aligned_count": 4,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 82.25,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.6442945,
+      "avg_counter_score": 0.53070414,
+      "avg_neutral_score": 0.41250068,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.5,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.5,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 792,
+      "media_taihai_questions": 6,
+      "taiwan_question_ratio": 0.0075757575757575,
+      "coverage_intensity": 0.0076,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.5
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.6442945,
+      "topic_preferences": {
+        "政要表态": 0.5
+      }
+    }
+  },
+  "中新社": {
+    "basic_info": {
+      "name": "中新社",
+      "country": "中国",
+      "media_type": "通讯社",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 3,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 2,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.3333333333333333,
+      "neutral_ratio": 0.6666666666666666,
+      "stance_label": "Aligned",
+      "avg_question_length": 92.33333333333331,
+      "issue_entropy": 0.6365141682948128,
+      "taiwan_issue_ratio": 0.6666666666666666,
+      "avg_aligned_score": 0.5734524,
+      "avg_counter_score": 0.53122455,
+      "avg_neutral_score": 0.44766152,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 1.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 327,
+      "media_taihai_questions": 5,
+      "taiwan_question_ratio": 0.0152905198776758,
+      "coverage_intensity": 0.0153,
+      "topic_diversity": 0.6365
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 1.0
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.3333333333333333,
+      "neutral_tendency": 0.6666666666666666,
+      "semantic_intensity": 0.5734524,
+      "topic_preferences": {
+        "政要表态": 1.0
+      }
+    }
+  },
+  "俄新社": {
+    "basic_info": {
+      "name": "俄新社",
+      "country": "俄罗斯",
+      "media_type": "通讯社",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "俄文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 2,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 1,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.5,
+      "neutral_ratio": 0.5,
+      "stance_label": "Aligned",
+      "avg_question_length": 35.5,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.66930604,
+      "avg_counter_score": 0.59005535,
+      "avg_neutral_score": 0.3703193,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.5,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.5,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 126,
+      "media_taihai_questions": 2,
+      "taiwan_question_ratio": 0.0158730158730158,
+      "coverage_intensity": 0.0159,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.5
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.5,
+      "neutral_tendency": 0.5,
+      "semantic_intensity": 0.66930604,
+      "topic_preferences": {
+        "政要表态": 0.5
+      }
+    }
+  },
+  "俄通塔斯社": {
+    "basic_info": {
+      "name": "俄通塔斯社",
+      "country": "俄罗斯",
+      "media_type": "通讯社",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "俄文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 3,
+      "counter_count": 0,
+      "aligned_count": 2,
+      "neutral_count": 1,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.6666666666666666,
+      "neutral_ratio": 0.3333333333333333,
+      "stance_label": "Aligned",
+      "avg_question_length": 101.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.60894305,
+      "avg_counter_score": 0.4959565,
+      "avg_neutral_score": 0.4475502,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.3333333333333333,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.6666666666666666,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 192,
+      "media_taihai_questions": 3,
+      "taiwan_question_ratio": 0.015625,
+      "coverage_intensity": 0.0156,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.3333
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.6666666666666666,
+      "neutral_tendency": 0.3333333333333333,
+      "semantic_intensity": 0.60894305,
+      "topic_preferences": {
+        "政要表态": 0.3333333333333333
+      }
+    }
+  },
+  "印度报业托拉斯社": {
+    "basic_info": {
+      "name": "印度报业托拉斯社",
+      "country": "印度",
+      "media_type": "未知媒体类型",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 1,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 103.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.51663923,
+      "avg_counter_score": 0.4440316,
+      "avg_neutral_score": 0.5196646,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 1.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 114,
+      "media_taihai_questions": 1,
+      "taiwan_question_ratio": 0.0087719298245614,
+      "coverage_intensity": 0.0088,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国军舰军机穿越台海": 1.0
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.51663923,
+      "topic_preferences": {
+        "军事行动": 1.0
+      }
+    }
+  },
+  "国际广播电台": {
+    "basic_info": {
+      "name": "国际广播电台",
+      "country": "中国",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 10,
+      "counter_count": 0,
+      "aligned_count": 8,
+      "neutral_count": 2,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.8,
+      "neutral_ratio": 0.2,
+      "stance_label": "Aligned",
+      "avg_question_length": 93.5,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.62538296,
+      "avg_counter_score": 0.5211681,
+      "avg_neutral_score": 0.4267245,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.6,
+        "EI_3_国际组织涉台表述": 0.1,
+        "EI_5_外媒涉台报道争议": 0.2,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.1
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 177,
+      "media_taihai_questions": 11,
+      "taiwan_question_ratio": 0.0621468926553672,
+      "coverage_intensity": 0.0621,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.6,
+        "对台军售/军事援助": 0.1
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.8,
+      "neutral_tendency": 0.2,
+      "semantic_intensity": 0.62538296,
+      "topic_preferences": {
+        "政要表态": 0.6
+      }
+    }
+  },
+  "彭博社": {
+    "basic_info": {
+      "name": "彭博社",
+      "country": "美国",
+      "media_type": "未知媒体类型",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "英文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 15,
+      "counter_count": 0,
+      "aligned_count": 8,
+      "neutral_count": 7,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.5333333333333333,
+      "neutral_ratio": 0.4666666666666667,
+      "stance_label": "Aligned",
+      "avg_question_length": 83.53333333333333,
+      "issue_entropy": 0.2449300267946353,
+      "taiwan_issue_ratio": 0.0666666666666666,
+      "avg_aligned_score": 0.57947415,
+      "avg_counter_score": 0.52413005,
+      "avg_neutral_score": 0.4481979,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0666666666666666,
+        "EI_2_外国政要涉台表态或访问": 0.4666666666666667,
+        "EI_3_国际组织涉台表述": 0.2,
+        "EI_5_外媒涉台报道争议": 0.2666666666666666,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 1021,
+      "media_taihai_questions": 19,
+      "taiwan_question_ratio": 0.0186092066601371,
+      "coverage_intensity": 0.0186,
+      "topic_diversity": 0.2449
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.4667,
+        "外国政府涉台立法": 0.0667
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.5333333333333333,
+      "neutral_tendency": 0.4666666666666667,
+      "semantic_intensity": 0.57947415,
+      "topic_preferences": {
+        "政要表态": 0.4666666666666667
+      }
+    }
+  },
+  "总台华语环球节目中心": {
+    "basic_info": {
+      "name": "总台华语环球节目中心",
+      "country": "中国",
+      "media_type": "未知媒体类型",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 1,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 90.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.5444235,
+      "avg_counter_score": 0.47418782,
+      "avg_neutral_score": 0.49069434,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 1.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 129,
+      "media_taihai_questions": 1,
+      "taiwan_question_ratio": 0.0077519379844961,
+      "coverage_intensity": 0.0078,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "一般性台海议题": 0.5
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.5444235,
+      "topic_preferences": {
+        "外交议题": 0.5,
+        "一般性询问": 0.5
+      }
+    }
+  },
+  "总台央视": {
+    "basic_info": {
+      "name": "总台央视",
+      "country": "中国",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 4,
+      "counter_count": 0,
+      "aligned_count": 3,
+      "neutral_count": 1,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.75,
+      "neutral_ratio": 0.25,
+      "stance_label": "Aligned",
+      "avg_question_length": 96.25,
+      "issue_entropy": 0.5623351446188083,
+      "taiwan_issue_ratio": 0.25,
+      "avg_aligned_score": 0.546188,
+      "avg_counter_score": 0.48499578,
+      "avg_neutral_score": 0.48440814,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.0,
+        "EI_3_国际组织涉台表述": 0.5,
+        "EI_5_外媒涉台报道争议": 0.25,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.25
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 152,
+      "media_taihai_questions": 4,
+      "taiwan_question_ratio": 0.0263157894736842,
+      "coverage_intensity": 0.0263,
+      "topic_diversity": 0.5623
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "对台军售/军事援助": 0.25
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.75,
+      "neutral_tendency": 0.25,
+      "semantic_intensity": 0.546188,
+      "topic_preferences": {
+        "军售援助": 0.25
+      }
+    }
+  },
+  "新华社": {
+    "basic_info": {
+      "name": "新华社",
+      "country": "中国",
+      "media_type": "通讯社",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 3,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 2,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.3333333333333333,
+      "neutral_ratio": 0.6666666666666666,
+      "stance_label": "Aligned",
+      "avg_question_length": 90.0,
+      "issue_entropy": 0.6365141682948128,
+      "taiwan_issue_ratio": 0.3333333333333333,
+      "avg_aligned_score": 0.5220316,
+      "avg_counter_score": 0.50223005,
+      "avg_neutral_score": 0.48786917,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.6666666666666666,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.3333333333333333,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 321,
+      "media_taihai_questions": 3,
+      "taiwan_question_ratio": 0.0093457943925233,
+      "coverage_intensity": 0.0093,
+      "topic_diversity": 0.6365
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.6667
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.3333333333333333,
+      "neutral_tendency": 0.6666666666666666,
+      "semantic_intensity": 0.5220316,
+      "topic_preferences": {
+        "政要表态": 0.6666666666666666
+      }
+    }
+  },
+  "日本东京电视台": {
+    "basic_info": {
+      "name": "日本东京电视台",
+      "country": "日本",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "日文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 1,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 37.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.6784719,
+      "avg_counter_score": 0.57724726,
+      "avg_neutral_score": 0.3721404,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 1.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 12,
+      "media_taihai_questions": 1,
+      "taiwan_question_ratio": 0.0833333333333333,
+      "coverage_intensity": 0.0833,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 1.0
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.6784719,
+      "topic_preferences": {
+        "政要表态": 1.0
+      }
+    }
+  },
+  "日本共同社": {
+    "basic_info": {
+      "name": "日本共同社",
+      "country": "日本",
+      "media_type": "通讯社",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "日文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 2,
+      "counter_count": 0,
+      "aligned_count": 2,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 57.5,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.62063444,
+      "avg_counter_score": 0.52290237,
+      "avg_neutral_score": 0.4282316,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.5,
+        "EI_3_国际组织涉台表述": 0.5,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 210,
+      "media_taihai_questions": 2,
+      "taiwan_question_ratio": 0.0095238095238095,
+      "coverage_intensity": 0.0095,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.5
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.62063444,
+      "topic_preferences": {
+        "政要表态": 0.5
+      }
+    }
+  },
+  "日本广播协会nhk": {
+    "basic_info": {
+      "name": "日本广播协会（NHK）",
+      "country": "日本",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "日文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 5,
+      "counter_count": 0,
+      "aligned_count": 4,
+      "neutral_count": 1,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.8,
+      "neutral_ratio": 0.2,
+      "stance_label": "Aligned",
+      "avg_question_length": 44.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.6213662,
+      "avg_counter_score": 0.5386417,
+      "avg_neutral_score": 0.41999608,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.8,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.2,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 163,
+      "media_taihai_questions": 5,
+      "taiwan_question_ratio": 0.0306748466257668,
+      "coverage_intensity": 0.0307,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.8
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.8,
+      "neutral_tendency": 0.2,
+      "semantic_intensity": 0.6213662,
+      "topic_preferences": {
+        "政要表态": 0.8
+      }
+    }
+  },
+  "法新社": {
+    "basic_info": {
+      "name": "法新社",
+      "country": "法国",
+      "media_type": "通讯社",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "法文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 7,
+      "counter_count": 1,
+      "aligned_count": 4,
+      "neutral_count": 2,
+      "counter_ratio": 0.1428571428571428,
+      "aligned_ratio": 0.5714285714285714,
+      "neutral_ratio": 0.2857142857142857,
+      "stance_label": "Aligned",
+      "avg_question_length": 76.14285714285714,
+      "issue_entropy": 0.410116318288409,
+      "taiwan_issue_ratio": 0.1428571428571428,
+      "avg_aligned_score": 0.60688657,
+      "avg_counter_score": 0.5332868,
+      "avg_neutral_score": 0.42991328,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.1428571428571428,
+        "EI_2_外国政要涉台表态或访问": 0.2857142857142857,
+        "EI_3_国际组织涉台表述": 0.1428571428571428,
+        "EI_5_外媒涉台报道争议": 0.1428571428571428,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.2857142857142857
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 1378,
+      "media_taihai_questions": 9,
+      "taiwan_question_ratio": 0.0065312046444121,
+      "coverage_intensity": 0.0065,
+      "topic_diversity": 0.4101
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.2857,
+        "对台军售/军事援助": 0.2857
+      },
+      "challenge_level": 0.1428571428571428,
+      "consistency_level": 0.5714285714285714,
+      "neutral_tendency": 0.2857142857142857,
+      "semantic_intensity": 0.60688657,
+      "topic_preferences": {
+        "立法议题": 0.1428571428571428,
+        "政要表态": 0.2857142857142857,
+        "军售援助": 0.2857142857142857
+      }
+    }
+  },
+  "深圳卫视": {
+    "basic_info": {
+      "name": "深圳卫视",
+      "country": "中国",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 5,
+      "counter_count": 0,
+      "aligned_count": 3,
+      "neutral_count": 2,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.6,
+      "neutral_ratio": 0.4,
+      "stance_label": "Aligned",
+      "avg_question_length": 158.6,
+      "issue_entropy": 0.9502705392332348,
+      "taiwan_issue_ratio": 0.4,
+      "avg_aligned_score": 0.54133713,
+      "avg_counter_score": 0.45057005,
+      "avg_neutral_score": 0.5040464,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.4,
+        "EI_3_国际组织涉台表述": 0.2,
+        "EI_5_外媒涉台报道争议": 0.4,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 325,
+      "media_taihai_questions": 8,
+      "taiwan_question_ratio": 0.0246153846153846,
+      "coverage_intensity": 0.0246,
+      "topic_diversity": 0.9503
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.4
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.6,
+      "neutral_tendency": 0.4,
+      "semantic_intensity": 0.54133713,
+      "topic_preferences": {
+        "政要表态": 0.4
+      }
+    }
+  },
+  "湖北广播电视台": {
+    "basic_info": {
+      "name": "湖北广播电视台",
+      "country": "中国",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "国有",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 2,
+      "counter_count": 0,
+      "aligned_count": 2,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 77.5,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.594715,
+      "avg_counter_score": 0.49279684,
+      "avg_neutral_score": 0.45624405,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 1.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 187,
+      "media_taihai_questions": 3,
+      "taiwan_question_ratio": 0.0160427807486631,
+      "coverage_intensity": 0.016,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 1.0
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.594715,
+      "topic_preferences": {
+        "政要表态": 1.0
+      }
+    }
+  },
+  "澳亚卫视": {
+    "basic_info": {
+      "name": "澳亚卫视",
+      "country": "中国澳门",
+      "media_type": "电视台/广播电视媒体",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 7,
+      "counter_count": 0,
+      "aligned_count": 4,
+      "neutral_count": 3,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.5714285714285714,
+      "neutral_ratio": 0.4285714285714285,
+      "stance_label": "Aligned",
+      "avg_question_length": 86.14285714285714,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.6118466,
+      "avg_counter_score": 0.54255664,
+      "avg_neutral_score": 0.42279837,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.4285714285714285,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.1428571428571428,
+        "MS_1_外国军舰军机穿越台海": 0.1428571428571428,
+        "MS_2_对台军售或军事援助": 0.2857142857142857
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 103,
+      "media_taihai_questions": 9,
+      "taiwan_question_ratio": 0.087378640776699,
+      "coverage_intensity": 0.0874,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.4286,
+        "对台军售/军事援助": 0.2857
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.5714285714285714,
+      "neutral_tendency": 0.4285714285714285,
+      "semantic_intensity": 0.6118466,
+      "topic_preferences": {
+        "政要表态": 0.4285714285714285,
+        "军事行动": 0.1428571428571428,
+        "军售援助": 0.2857142857142857
+      }
+    }
+  },
+  "环球邮报": {
+    "basic_info": {
+      "name": "环球邮报",
+      "country": "加拿大",
+      "media_type": "未知媒体类型",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "英文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 1,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 0,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 1.0,
+      "neutral_ratio": 0.0,
+      "stance_label": "Aligned",
+      "avg_question_length": 41.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 1.0,
+      "avg_aligned_score": 0.6056553,
+      "avg_counter_score": 0.5261698,
+      "avg_neutral_score": 0.43408746,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 1.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 4,
+      "media_taihai_questions": 1,
+      "taiwan_question_ratio": 0.25,
+      "coverage_intensity": 0.25,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 1.0
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 1.0,
+      "neutral_tendency": 0.0,
+      "semantic_intensity": 0.6056553,
+      "topic_preferences": {
+        "政要表态": 1.0
+      }
+    }
+  },
+  "路透社": {
+    "basic_info": {
+      "name": "路透社",
+      "country": "英国",
+      "media_type": "通讯社",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "英文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 12,
+      "counter_count": 0,
+      "aligned_count": 7,
+      "neutral_count": 5,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.5833333333333334,
+      "neutral_ratio": 0.4166666666666667,
+      "stance_label": "Aligned",
+      "avg_question_length": 62.66666666666666,
+      "issue_entropy": 0.4505612088663046,
+      "taiwan_issue_ratio": 0.1666666666666666,
+      "avg_aligned_score": 0.61072254,
+      "avg_counter_score": 0.5507422,
+      "avg_neutral_score": 0.41926762,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.5833333333333334,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.0833333333333333,
+        "MS_1_外国军舰军机穿越台海": 0.1666666666666666,
+        "MS_2_对台军售或军事援助": 0.1666666666666666
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 1201,
+      "media_taihai_questions": 14,
+      "taiwan_question_ratio": 0.0116569525395503,
+      "coverage_intensity": 0.0117,
+      "topic_diversity": 0.4506
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.5833,
+        "外国军舰军机穿越台海": 0.1667
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.5833333333333334,
+      "neutral_tendency": 0.4166666666666667,
+      "semantic_intensity": 0.61072254,
+      "topic_preferences": {
+        "政要表态": 0.5833333333333334,
+        "军事行动": 0.1666666666666666,
+        "军售援助": 0.1666666666666666
+      }
+    }
+  },
+  "香港中评社": {
+    "basic_info": {
+      "name": "香港中评社",
+      "country": "中国香港",
+      "media_type": "未知媒体类型",
+      "ownership": "私营",
+      "political_stance": "一致立场",
+      "language": "中文"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 5,
+      "counter_count": 0,
+      "aligned_count": 4,
+      "neutral_count": 1,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.8,
+      "neutral_ratio": 0.2,
+      "stance_label": "Aligned",
+      "avg_question_length": 100.4,
+      "issue_entropy": 0.5004024235381879,
+      "taiwan_issue_ratio": 0.2,
+      "avg_aligned_score": 0.6132608,
+      "avg_counter_score": 0.5594212,
+      "avg_neutral_score": 0.413659,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 0.6,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.2,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.2
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 89,
+      "media_taihai_questions": 5,
+      "taiwan_question_ratio": 0.0561797752808988,
+      "coverage_intensity": 0.0562,
+      "topic_diversity": 0.5004
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 0.6,
+        "对台军售/军事援助": 0.2
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.8,
+      "neutral_tendency": 0.2,
+      "semantic_intensity": 0.6132608,
+      "topic_preferences": {
+        "政要表态": 0.6,
+        "军售援助": 0.2
+      }
+    }
+  },
+  "香港电台": {
+    "basic_info": {
+      "name": "香港电台",
+      "country": "中国香港",
+      "media_type": "未知媒体类型",
+      "ownership": "公营",
+      "political_stance": "一致立场",
+      "language": "未知语言"
+    },
+    "taiwan_issue_analysis": {
+      "total_questions": 2,
+      "counter_count": 0,
+      "aligned_count": 1,
+      "neutral_count": 1,
+      "counter_ratio": 0.0,
+      "aligned_ratio": 0.5,
+      "neutral_ratio": 0.5,
+      "stance_label": "Aligned",
+      "avg_question_length": 77.0,
+      "issue_entropy": 0.0,
+      "taiwan_issue_ratio": 0.0,
+      "avg_aligned_score": 0.60240114,
+      "avg_counter_score": 0.5023509,
+      "avg_neutral_score": 0.44762397,
+      "issue_distribution": {
+        "EI_1_外国政府涉台立法": 0.0,
+        "EI_2_外国政要涉台表态或访问": 1.0,
+        "EI_3_国际组织涉台表述": 0.0,
+        "EI_5_外媒涉台报道争议": 0.0,
+        "MS_1_外国军舰军机穿越台海": 0.0,
+        "MS_2_对台军售或军事援助": 0.0
+      }
+    },
+    "overall_performance": {
+      "media_total_questions": 30,
+      "media_taihai_questions": 3,
+      "taiwan_question_ratio": 0.1,
+      "coverage_intensity": 0.1,
+      "topic_diversity": 0.0
+    },
+    "generation_parameters": {
+      "question_style": "客观中立型（带有共识导向）",
+      "focus_priority": {
+        "外国政要涉台表态/访问": 1.0
+      },
+      "challenge_level": 0.0,
+      "consistency_level": 0.5,
+      "neutral_tendency": 0.5,
+      "semantic_intensity": 0.60240114,
+      "topic_preferences": {
+        "政要表态": 1.0
+      }
+    }
+  }
+}

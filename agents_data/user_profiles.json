@@ -1,0 +1,32 @@
+{
+    "user_us_001": {
+        "nationality": "美国",
+        "age": "35",
+        "education": "硕士",
+        "political_leaning": "自由派",
+        "attitude_to_china": "谨慎",
+        "platform": "Twitter",
+        "posting_style": "理性分析，引用数据",
+        "interests": ["国际政治", "科技政策"]
+    },
+    "user_cn_001": {
+        "nationality": "中国",
+        "age": "28",
+        "education": "本科",
+        "political_leaning": "爱国青年",
+        "attitude_to_china": "积极支持",
+        "platform": "微博",
+        "posting_style": "热情洋溢，使用网络流行语",
+        "interests": ["国家发展", "外交成就"]
+    },
+    "user_kr_001": {
+        "nationality": "韩国",
+        "age": "42",
+        "education": "博士",
+        "political_leaning": "保守派",
+        "attitude_to_china": "复杂",
+        "platform": "Naver Blog",
+        "posting_style": "学术性讨论",
+        "interests": ["朝韩关系", "东北亚安全"]
+    }
+}
