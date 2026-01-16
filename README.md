@@ -34,15 +34,12 @@ NetLogo 前端 → 文件通信桥梁 → Python API 后端 → 智谱 AI LLM
    cd api_server
    pip install -r requirements.txt
    cp .env.example .env
-   # 编辑.env 文件，填入 ZHIPUAI_API_KEY
+   编辑.env 文件，填入 ZHIPUAI_API_KEY
 3. **启动服务**
-
-   # 终端 1: 启动 API 服务器
-
+   终端 1: 启动 API 服务器
    python api_server.py
 
-   # 终端 2: 启动通信桥梁
-
+   终端 2: 启动通信桥梁
    python http_client.py
 
 4. **启动 NetLogo 仿真**
